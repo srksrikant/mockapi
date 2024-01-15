@@ -1,1 +1,19 @@
-
+{
+getAllFiles : [
+    {
+        "id": 1,
+        "fileName": "hitachi",
+        "filePath": "D:/Clients/Hitachi Gen AI/Hitachi DEMO/refApp/contentFile/sample.pdf",
+        "classification": "Guide",
+        "fileType": ".pdf",
+        "fileDesc": "Quick start guide",
+        "action": "Content extraction",
+        "fileSize": "",
+        "language": "en",
+        "isContentExtracted": true,
+        "receivedAt": 1705038563387,
+        "publishedBy": "sonali.gupta",
+        "publishedAt": 1705038563387,
+    }
+      ]
+}
